@@ -9,3 +9,5 @@
 <img src = "https://github.com/BrokenMental/MUD_Project/blob/master/MUD_Project/WebContent/Project_img/2.PNG?raw=true">
 </td>
 </tr>
+<table>
+<hr>
