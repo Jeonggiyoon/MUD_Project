@@ -11,7 +11,7 @@
 <center>
 	<table border="2">
 		<tr>
-			<td><a href="Menu1.jsp"><img src="img/menu1.jpg" width="180" height="40"></a></td>
+			<td><a href="Main.jsp"><img src="img/menu1.jpg" width="180" height="40"></a></td>
 			<td><a href="Menu2.jsp"><img src="img/menu2.jpg" width="180" height="40"></a></td>
 			<td><a href="Menu3.jsp"><img src="img/menu3.jpg" width="180" height="40"></a></td>
 			<td><a href="Menu4.jsp"><img src="img/menu4.jpg" width="180" height="40"></a></td>

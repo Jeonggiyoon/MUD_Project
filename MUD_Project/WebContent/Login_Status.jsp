@@ -12,16 +12,21 @@
 		if (userid == null || userid.equals(" ")) {
 			response.sendRedirect("Login_Form.jsp");
 		}
-	} finally {%>
+	} finally {
+%>
 
-	<%}
+<%
+	}
 %>
 <body>
 	<center>
 		<hr align="center" style="border: solid 1px gray; width: 75%">
-		<%=session.getAttribute("userid")%>님이 접속중입니다.
+		<table style="text-align: center;" width="500" cellspacing="0" cellpadding="2">
+			<tr>
+				<td><%=session.getAttribute("userid")%>님이 접속중입니다.</td>
+			</tr>
+		</table>
 		<hr align="center" style="border: solid 1px gray; width: 75%">
 	</center>
-
 </body>
 </html>

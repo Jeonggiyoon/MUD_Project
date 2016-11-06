@@ -4,21 +4,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
 </head>
 <body>
-
-	<!-- 메인메뉴 상단 로고 -->
-	<%@ include file="TopLogo.jsp" %>
-			<div id="middle_bottom">
-				<%@ include file="Login_Status.jsp"%>
-			</div>
-	
 	<center>
-	<%@ include file="MenuBar.jsp" %>
 	<h1>웹 페이지 소개</h1>
 	<img src="img/Music1.jpg">
 	</center>
-
 </body>
 </html>
